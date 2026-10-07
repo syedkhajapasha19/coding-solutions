@@ -46,7 +46,7 @@ Print the sum and difference of both integers separated by a space on the first 
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T14:06:53.151Z  
+**Submitted:** 2026-10-07T14:03:50.006Z  
 
 ```c
 #include <stdio.h>
